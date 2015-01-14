@@ -1,4 +1,5 @@
 #History 3907
+#Phebe Jane Valdez
 
 A short in why I am taking this class
 
@@ -6,8 +7,6 @@ I am taking this course to get a better understanding of the digital world. The 
 
 I don't have much digital experience, I always thought I was a tech savy person. That was until I met Dr. Graham. The only real experience I've had with the digital world was making a Minecraft game with my group in Dr. Grahams previous class in the fall. Also I have used programs such as [Voyant](http://voyant-tools.org/) and [Slides](https://slides.com/) which Dr. Graham also introduced me to in a previous class taken with him as well. One that I most favour that Dr. Graham has introduced me to is [Evernote](https://evernote.com/) where I can throw in anything from pictures of my reasearch to just jot notes, and the program helps you organise your data. From this class I hope to get a better understanding of open access and other programs that would be useful to my history degree or everyday life. 
 
-![Minecraft](![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
-)
+![Minecraft](http://static4.gamespot.com/uploads/original/536/5360430/2656292-minecraft-xb1-screen08-png.png)
 
-
-
+![Orangizing my notes online](https://www.google.ca/search?q=piles+of+paper+on+desk&biw=1600&bih=837&tbm=isch&imgil=qJVtzZ3mCY5QMM%253A%253BbLfjyPwmfMYOnM%253Bhttp%25253A%25252F%25252Fwww.idreamofclean.net%25252Fthe-great-paper-purge-from-piles-to-almost-paperless%25252F&source=iu&pf=m&fir=qJVtzZ3mCY5QMM%253A%252CbLfjyPwmfMYOnM%252C_&usg=__PAp4aq1eEwbiJGrMg54E7fc8X0c%3D&ved=0CCgQyjc&ei=Zqe2VMTrIoqSyQTE6IDwBg#imgdii=_&imgrc=qJVtzZ3mCY5QMM%253A%3BbLfjyPwmfMYOnM%3Bhttp%253A%252F%252Fwww.idreamofclean.net%252Fwp-content%252Fuploads%252F2012%252F01%252FiStock_000009700656XSmall.jpg%3Bhttp%253A%252F%252Fwww.idreamofclean.net%252Fthe-great-paper-purge-from-piles-to-almost-paperless%252F%3B300%3B400)
