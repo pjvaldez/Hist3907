@@ -6,4 +6,8 @@ I am taking this course to get a better understanding of the digital world. The 
 
 I don't have much digital experience, I always thought I was a tech savy person. That was until I met Dr. Graham. The only real experience I've had with the digital world was making a Minecraft game with my group in Dr. Grahams previous class in the fall. Also I have used programs such as [Voyant](http://voyant-tools.org/) and [Slides](https://slides.com/) which Dr. Graham also introduced me to in a previous class taken with him as well. One that I most favour that Dr. Graham has introduced me to is [Evernote](https://evernote.com/) where I can throw in anything from pictures of my reasearch to just jot notes, and the program helps you organise your data. From this class I hope to get a better understanding of open access and other programs that would be useful to my history degree or everyday life. 
 
+![Minecraft](![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+)
+
+
 
