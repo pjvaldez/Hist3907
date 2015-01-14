@@ -8,7 +8,7 @@ I don't have much digital experience, I always thought I was a tech savy person.
 
 Just in case your reading this on my Github, here is my [online HQ](http://valdezhist3907.wordpress.com)
 
-![Minecraft](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+![Minecraft](http://assets2.ignimgs.com/2014/09/18/20823568minejpg-20f48d_1280w.jpg)
 ![Notes](http://www.playbillsvspayingbills.com/wp-content/uploads/2013/04/paper-monster-300x265.jpg)
 
 
